@@ -1,6 +1,6 @@
 import React from "react";
-import "./css/App.css";
-import Topic from "./Topics/UseReducer/UseReducerBasics";
+import "./css/App2.css";
+import Topic from "./Topics/Advanced-React/PropTypes/PropTypes";
 
 const App = () => {
   return (
